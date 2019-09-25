@@ -1,4 +1,4 @@
-# Hapus Post Profile/Halaman/Grup
+# Delete Post Profile/Halaman/Grup
 
 ## Installation + Usage
 
